@@ -31,7 +31,6 @@ Ce projet est une implémentation en Python du célèbre jeu de **Bataille Naval
 
 - L'utilisateur est invité à entrer les coordonnées pour placer ses bateaux.
 - Ensuite, il lance des attaques en entrant des coordonnées.
-- Le plateau s'actualise après chaque action pour refléter les résultats des attaques.
 
 
 ## Installation
